@@ -8,7 +8,7 @@ export default function DefaultPaper(props) {
             flexDirection: 'column',
             justifyContent: 'center',
             textAlign: 'center',
-            gap: '1rem',
+            gap: '1.5rem',
             borderRadius: '10px'
         }}>
             { props.children }
